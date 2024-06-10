@@ -14,7 +14,9 @@ Battery Monitoring: View battery status, level, and health to manage power consu
 # Technologies Used
 
 Android Studio: Integrated development environment (IDE) for Android development.
+
 Java: Programming language used for developing the app.
+
 Android SDK: Software development kit used for building Android applications.
 
 # Development
