@@ -1,5 +1,5 @@
 # Android-ResourceMonitor
-The Android Resource Monitor Application is a simple yet effective tool designed to help users keep track of their device's resources. Developed using Android Studio and Java, this app provides real-time monitoring and reporting on key system resources such as storage, RAM, and battery.
+The Android Resource Monitor Application is a simple yet effective tool designed to help users keep track of their device's resources. Developed using Android Studio and Kotlin, this app provides real-time monitoring and reporting on key system resources such as storage, RAM, and battery.
 
 # Features:
 
@@ -15,7 +15,7 @@ Battery Monitoring: View battery status, level, and health to manage power consu
 
 Android Studio: Integrated development environment (IDE) for Android development.
 
-Java: Programming language used for developing the app.
+Kotlin: Programming language used for developing the app.
 
 Android SDK: Software development kit used for building Android applications.
 
