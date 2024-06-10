@@ -7,4 +7,18 @@ Storage Monitoring: Keep track of available and used storage space on your devic
 
 RAM Monitoring: Monitor real-time RAM usage to ensure your device runs smoothly.
 
+CPU Monitoring: Track CPU usage to monitor your device's performance.
+
 Battery Monitoring: View battery status, level, and health to manage power consumption effectively
+
+Technologies Used
+
+Android Studio: Integrated development environment (IDE) for Android development.
+Java: Programming language used for developing the app.
+Android SDK: Software development kit used for building Android applications.
+
+Development
+
+Developer: Gosego Otsweleng
+
+Completion Date: May 3, 2024
